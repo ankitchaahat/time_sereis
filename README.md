@@ -88,8 +88,8 @@ The test data with predictions is saved to a CSV file named submission.csv.
 
 
 
-
-
+# 2
+# USING AR MODEL
 
 
 
